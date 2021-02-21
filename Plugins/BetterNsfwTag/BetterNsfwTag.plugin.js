@@ -9,6 +9,8 @@
  * @updateUrl https://raw.githubusercontent.com/mwittrien/BetterDiscordAddons/master/Plugins/BetterNsfwTag/BetterNsfwTag.plugin.js
  */
 
+//test
+
 module.exports = (_ => {
 	const config = {
 		"info": {
