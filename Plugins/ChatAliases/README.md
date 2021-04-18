@@ -10,3 +10,5 @@
 [patreon-link]: https://patreon.com/MircoWittrien
 
 Allow the user to configure their own chat-aliases which will automatically be replaced before the message is being sent
+
+test
