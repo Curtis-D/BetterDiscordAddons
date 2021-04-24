@@ -13,7 +13,3 @@ Allow the user to configure their own chat-aliases which will automatically be r
 
 test
 1
-2
-3
-4
-5
