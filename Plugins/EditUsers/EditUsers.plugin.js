@@ -9,6 +9,8 @@
  * @updateUrl https://raw.githubusercontent.com/mwittrien/BetterDiscordAddons/master/Plugins/EditUsers/EditUsers.plugin.js
  */
 
+//test
+
 module.exports = (_ => {
 	const config = {
 		"info": {
